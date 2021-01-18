@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on 2021 Christmas tree ornaments
+🔭 I’m currently working on a 2021 Christmas tree ornament
 
-🌱 I’m currently learning to produce PCBs on a larger basis
+🌱 I’m currently learning to produce larger batches of PCBs
 
 🤔 I’m looking for help with charlieplexing C code
 
