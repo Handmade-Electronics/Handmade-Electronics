@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on a 2021 Christmas tree ornament
+🔭 I’m currently working on a Charlieplexing LED Christmas tree ornament
 
 🌱 I’m currently learning to produce larger batches of PCBs
 
